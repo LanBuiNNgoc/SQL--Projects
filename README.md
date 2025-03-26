@@ -6,4 +6,4 @@ This project involves cleaning and transforming [>8 million rows of raw web traf
 - Data Transformation
 - Data Type Conversion
 - Handling Missing/Incorrect Values
-[View my SQL code for this project](https://github.com/LanBuiNNgoc/SQL--Projects/blob/main/SQL%20code%20LAV%20Project)
+<br/>[View my SQL code for this project](https://github.com/LanBuiNNgoc/SQL--Projects/blob/main/SQL%20code%20LAV%20Project)
