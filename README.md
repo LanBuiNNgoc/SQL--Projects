@@ -18,6 +18,6 @@ This project involves cleaning and transforming [raw lay offs data](https://gith
 -  Common Table Expressions (CTEs),
 -  String Manipulation, Window Functions, Aggregations, Group By, Joins, Date Functions
 
-<br/> View Data cLeaning SQL Transcript
-<br/> View EDA SQL trabscript
+<br/> [View Data Cleaning SQL Transcript](https://github.com/LanBuiNNgoc/SQL--Projects/blob/main/layoffs_dataCleaningProject.sql)
+<br/> [View EDA SQL trabscript](https://github.com/LanBuiNNgoc/SQL--Projects/blob/main/layoffs_ExploratoryDataAnalysis.sql)
 
